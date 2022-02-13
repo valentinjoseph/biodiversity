@@ -1,6 +1,6 @@
 # Biodiversity Project
 
-Let's work as a biodiversity analyst and aanaylse data from national parks
+Let's work as a biodiversity analyst and analyse data from national parks
 
 Note: The data for this project is *inspired* by real data, but is mostly fictional.
 

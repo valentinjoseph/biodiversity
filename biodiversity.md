@@ -1120,7 +1120,7 @@ How many weeks would you need to observe sheep at Bryce National Park in order t
 
 ```python
 bryce = 870 / 250.
-yellowstone = 810 / 507.
+yellowstone = 870 / 507.
 
-# Approximately 3.5 weeks at Bryce and 1.5 weeks at Yellowstone.
+# Approximately 3.5 weeks at Bryce and 1.7 weeks at Yellowstone.
 ```
